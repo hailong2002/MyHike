@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "683247237481",
+    "project_id": "carpool-d6984",
+    "storage_bucket": "carpool-d6984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683247237481:android:b207b500cd71d38b36a5f8",
+        "android_client_info": {
+          "package_name": "com.example.comp1786"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683247237481-stheia9sog6igtajijhdjfs9tnpumcg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ber-JzFI8c5zNTLg9aCm_-d4fO1JukM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683247237481-stheia9sog6igtajijhdjfs9tnpumcg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683247237481:android:34c1e8b1c7ff87eb36a5f8",
+        "android_client_info": {
+          "package_name": "com.example.udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683247237481-stheia9sog6igtajijhdjfs9tnpumcg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ber-JzFI8c5zNTLg9aCm_-d4fO1JukM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683247237481-stheia9sog6igtajijhdjfs9tnpumcg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
